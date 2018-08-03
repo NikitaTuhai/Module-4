@@ -1,0 +1,170 @@
+.wrapper {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  box-sizing: border-box;
+  width: 1170px;
+  padding: 0px 0px 15px 0px;
+  margin: auto;
+  }
+
+.site-name {text-transform: uppercase;
+  display: inline-block;
+  float: both;
+  margin-top: 38px;
+}
+.site-name::first-letter {
+  color: #1abc9c;
+}
+.clear1 {
+  clear: left;
+}
+
+.main {text-transform: uppercase;
+  display: inline-block;
+  text-align: right;
+}
+.main-menu {
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  padding-left: 510px;
+  margin: ;
+  width: px;
+  height: px;
+  margin-top: 43px;
+  margin-bottom: 114px;
+}
+
+.main-menu-item {
+  display: inline-block;
+}
+
+.main-menu-item a {
+  text-decoration: none;
+  color: #000000;
+  padding-left: 30px;
+}
+
+.main-menu-item a:hover {
+  color: #48c9b0;
+}
+
+.main-menu-item a .main-menu-item a:hover .featured {
+  text-transform: uppercase;
+}
+
+.featured {text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  font-weight: bold;
+}
+.products {
+  color: #555252;
+  font-weight: bold;
+  font-size: 48px;
+  text-align: center;
+  margin: auto;
+}
+.line-one {
+  text-align: center;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 90px;
+}
+
+.product1 {text-transform: uppercase;
+  display: inline-block;
+  margin: 15px 15px 15px 15px;
+}
+.product-img {
+  margin-bottom: -4px;
+}
+
+.box1 {
+  background-color: #323232;
+  margin: right 0px;
+  width: 80%;
+  height: 40px;
+  float: left;
+  text-align: justify;
+}
+.box2 {
+  background-color: #8c8c8c;
+  width: 20%;
+  height: 40px;
+  float: right;
+  text-align: justify;
+}
+.name {
+  display: inline-block;
+  margin: 15px 67px 14px 14px;
+  width: 135px;
+}
+.price {
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 13px;
+}
+.product1:hover .box1 {
+  background-color: #1abc9c;
+}
+.product1:hover .box2 {
+  background-color: #7fd9c7;
+}
+
+.clear {
+  clear: left;
+}
+.blog-news {text-transform: uppercase;
+  font-size: 48px;
+  font-weight: bold;
+  color: #555252;
+  padding-top: 105px;
+  text-align: center;
+  margin: auto;
+}
+
+.line-two {
+  text-align: center;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 80px;
+}
+
+.blog {
+  margin: 15px 15px 15px 15px;
+  display: inline-block;
+  width: 350px;
+  height: 510px;
+  color:#555252;
+}
+.line {
+  display: block;
+  padding-bottom: 30px;
+}
+
+.button {
+  margin-top: 23px;
+  margin-bottom: 75px;
+}
+button {color: #ffffff;
+  padding: 12px 45px 23px 45px;
+  height: 55px;
+  width: 160;
+  display: inline-block;
+
+  text-decoration: none;
+
+  border-style: solid none;
+  border-radius: 6px;
+  transition: 0.2s;
+
+  background-color: #4ec6ab;
+}
+
+button {
+  cursor: pointer;
+}
+
+.blog>h3 {font-family: "Open Sans", sans-serif;
+    font-size: 18px;
