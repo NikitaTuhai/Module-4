@@ -148,17 +148,12 @@
   margin-bottom: 75px;
 }
 button {color: #ffffff;
-  padding: 12px 45px 23px 45px;
-  height: 55px;
-  width: 160;
+  padding: 20px 45px 20px 45px;
   display: inline-block;
-
   text-decoration: none;
-
   border-style: solid none;
   border-radius: 6px;
   transition: 0.2s;
-
   background-color: #4ec6ab;
 }
 
